@@ -10,7 +10,7 @@ TensorFlow implementation for the paper below:
 2.Go to [this site](https://aistudio.baidu.com/aistudio/datasetdetail/40690) to download
 the datasets, namely train_app.csv,train_sms.csv,train_user.csv,train_voc.csv. We didn't upload it because it's too large, and couldn't upload to github.
 
-3.Put the 4 downloaded datasets in the path: /CDR2IMG/data/
+3.Unzip /CDR2IMG/data.zip and put the 4 downloaded datasets in the path: /CDR2IMG/data/
 
 4.Run CDR2IMG/src/pre_process/produce_2d_behavior_matrix_hour.py to generate image-like matrixes.
 
